@@ -12,7 +12,7 @@ Shapes Drawer is a simple graphical application built using Python's tkinter lib
 ## How to Run
 
 1. **Clone the Repository**: Clone the Shapes Drawer repository to your local machine using Git:
-git clone https://github.com/your-username/shapes-drawer.git
+git clone https://github.com/kissanima/d-shape-drawer.git
 
 
 2. **Navigate to the Project Directory**: Open a terminal and change to the project directory:
